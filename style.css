@@ -533,7 +533,7 @@ footer::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('Images_And_Videos_Used/Pushpa-about-img.jpg');
+  background-image: url('https://raw.githubusercontent.com/Subhrajyoti01/PushpaWeb/refs/heads/main/Pushpa-about-img.jpg');
   background-size: cover;
   background-position: center;
   z-index: -1;
